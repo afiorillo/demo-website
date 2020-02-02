@@ -12,3 +12,7 @@ Foo
 ### Different heading
 
 Foo
+
+### This is a heading 3
+
+Add
