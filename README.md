@@ -1,3 +1,6 @@
 # Demo Website
 
-This is a simple example with Git.
+That is a simple [example](#link-to-how-commits-work) with Git.
+Foo
+
+Bar
