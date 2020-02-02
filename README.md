@@ -8,3 +8,7 @@ Bar
 ## This is a Heading 2
 
 Foo
+
+### This is a heading 3
+
+Add
